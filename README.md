@@ -1,2 +1,2 @@
-# FTLlama
-A Fine-Tuned Variation of Llama (Meta)
+# FTBert
+A Fine-Tuned Variation of Bert
